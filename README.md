@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there :wave:
+
+- 🔭 I’m currently working on my home page
+- 🌱 I’m currently learning javascript and vue
+- 👯 I’m looking to collaborate on [Freetube-Vue](https://github.com/FreeTubeApp/FreeTube-Vue)
 
 <!--
 **gamma-zro/gamma-zro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
